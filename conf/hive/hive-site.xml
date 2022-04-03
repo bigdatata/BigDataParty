@@ -47,4 +47,9 @@
         <value>false</value>
     </property>
 
+    <property>
+        <name>hive.server2.thrift.http.port</name>
+        <value>10000</value>
+    </property>
+
 </configuration>
